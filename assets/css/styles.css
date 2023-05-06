@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding:0 ;
+    border: 0;
+    font-family: "open sans","sans-serif";
+}
+/* navbar */
+.navbar{
+    background:#e83e8c ;
+}
+.navbar-brand img{
+    height: 53px;
+    width: 132px;
+    top: 12px;
+    left: 119px;
+}
+/* header */
+.headerH1{
+    color: #707070 ;
+    font-family:  'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 80px;
+    padding: 100px 0px 100px 0px;
+}
+
+/* acepatmos tarjetas */
+.tarjetas{
+    background:#17a2b8 ;
+    padding: 50px;
+}
+/* footer */
+footer{
+    background: #e83e8c;
+    padding: 0px;
+}
+.footerImg{
+    align-items: center;
+    height: 80px;
+    width: 80px;
+
+}
